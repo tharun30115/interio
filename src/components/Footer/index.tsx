@@ -3,10 +3,9 @@ const Footer = () => {
 		<div className="w-full bg-[#F7F7F7] pt-[120px] lg:px-[150px] px-8 pb-[56px] mt-[120px]">
 			<div className="w-full flex lg:flex-row flex-col lg:items-center justify-between lg:gap-0 gap-8">
 				<div className="flex flex-col gap-7">
-					<span className="font-semibold text-[#333] text-[28px]">Interior.</span>
+					<span className="font-semibold text-[#333] text-[28px]">Interio</span>
 					<p className="font-medium text-[#333] text-[15px] max-w-[300px] leading-7">
-						Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem voluptatibus earum
-						labore perspiciatis, a alias inventore.
+					made with ✨ by <a href="https://github.com/tharun30115">tharun</a>
 					</p>
 				</div>
 				<div className="flex flex-col md:mb-0 mb-5">
